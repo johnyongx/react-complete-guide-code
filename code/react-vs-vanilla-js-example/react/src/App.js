@@ -4,7 +4,7 @@ function App() {
   return (
     <div>
       <h1>My Todos</h1>
-      <Todo text='Learning React' />
+      <Todo text='Learning React - branch' />
     </div>
   );
 }
